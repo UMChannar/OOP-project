@@ -11,7 +11,7 @@ public class Electronics {
     public Electronics() {
         items[0] = "Bulb";
         items[1] = "Iron";
-        items[2] = "Cooper Wire";
+        items[2] = "Cooper Wires";
         items[3] = "Resistors";
         items[4] = "Electronics Board";
         items[5] = "Multimeter";
